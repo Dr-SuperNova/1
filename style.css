@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 
 html {
-      background-color: #1a1b26;
+      background-color: ##1a1a1a;
       align-items: center;
       color: #ebdbb2;
       display: flex;
@@ -33,7 +33,7 @@ html {
 
     a:focus,
     a:hover {
-      color: #a9b1d6;
+      color: #fffdea;
     }
 
     nav {
@@ -54,11 +54,11 @@ html {
     li:first-child {
       font-weight: bold;
       line-height: 2em;
-      color: #ad8ee6;
+      color: #fffdea;
     }
 
     img {
-      border: 2px solid #ebdbb2;
+      border: 2px solid #fffdea;
       height: auto;
       object-fit: cover;
       object-position: 50% 100%;
@@ -68,7 +68,7 @@ html {
 input {
   background-color: unset;
   font: 16px 'Ubuntu Mono', monospace;
-  color: #ebdbb2;
+  color: #fffdea;
   height: 100%;
   width: 100%;
   border-top-style: hidden;
